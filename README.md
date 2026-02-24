@@ -20,7 +20,7 @@
 ###
 
 <h2 align="left">Tecnologias que mais utilizo:</h2>
-
+<br clear="both">
 ###
 
 <div align="left">
