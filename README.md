@@ -15,11 +15,10 @@
 ###
 
 <p align="left">
-Olá! Eu sou o **Isaque** e atualmente estou cursando o **Técnico em Desenvolvimento de Sistemas** integrado ao Ensino Médio.  
+Olá! Eu sou o <b>Isaque</b> e atualmente estou cursando o <b>Técnico em Desenvolvimento de Sistemas</b> integrado ao Ensino Médio.  
 Gosto de aprender tecnologias novas e resolver problemas reais com programação.  
-Atualmente focado em **web development** (front-end + back-end).
+Atualmente focado em <b>web development</b> (front-end + um pouco de back-end).
 </p>
-
 
 
 ###
