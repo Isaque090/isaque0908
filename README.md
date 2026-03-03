@@ -39,5 +39,3 @@ Atualmente focado em <b>web development</b> (front-end +  back-end).
 </div>
 
 
-
-###
