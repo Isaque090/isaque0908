@@ -18,7 +18,6 @@ Gosto de aprender tecnologias novas e resolver problemas reais com programação
 Atualmente focado em <b>web development</b> (front-end +  back-end).
 </p>
 
-
 ###
 
 <h2 align="left">Tecnologias que mais utilizo:</h2>
